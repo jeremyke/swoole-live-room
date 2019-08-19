@@ -1,4 +1,4 @@
-你用swoole扩展在ThinkPHP5框架上开发
+利用swoole扩展在ThinkPHP5框架上开发
 ===============
 > ThinkPHP5的运行环境要求PHP5.6以上。
 

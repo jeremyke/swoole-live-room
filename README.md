@@ -1,13 +1,14 @@
-利用swoole扩展在ThinkPHP5框架上开发
+利用原生swoole扩展搭建websocket服务器，打造高性能图文直播应用
 ===============
-> ThinkPHP5的运行环境要求PHP5.6以上。
+
+- ThinkPHP5的运行环境要求PHP5.6以上
+- 利用swoole扩展在ThinkPHP5框架上开发
 
 
 ## 目录结构
 
 初始的目录结构如下：
 
-~~~
 www  WEB部署目录（或者子目录）
 ├─application           应用目录
 │
@@ -18,7 +19,6 @@ www  WEB部署目录（或者子目录）
 │
 │
 ├─vendor                第三方类库目录（Composer依赖库）
-~~~
 
 ## 功能介绍
 
